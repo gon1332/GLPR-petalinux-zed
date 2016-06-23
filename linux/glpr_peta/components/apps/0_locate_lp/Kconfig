@@ -1,0 +1,14 @@
+###############################################################################
+# Please modify this file if you want to configure your own application.
+# You can uncommon and/or change the following Kconfig elements.
+###############################################################################
+
+
+if ROOTFS_COMPONENT_APPS_NAME_0_LOCATE_LP
+	comment "No additional options for 0_LOCATE_LP"
+
+# 	config APPS_0_LOCATE_LP_OPTION0
+#	bool "option0"
+#	help
+#	  Help text
+endif

@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    /home/inf2010/konstadel/Devel/GLPR-petalinux-zed/hardware/hls_ip/text_isolation_ip/solution1/.autopilot/db/a.g.bc ${1+"$@"}

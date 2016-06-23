@@ -1,0 +1,14 @@
+###############################################################################
+# Please modify this file if you want to configure your own application.
+# You can uncommon and/or change the following Kconfig elements.
+###############################################################################
+
+
+if ROOTFS_COMPONENT_APPS_NAME_2_MORPHOLOGY_NORMALIZATION
+	comment "No additional options for 2_MORPHOLOGY_NORMALIZATION"
+
+# 	config APPS_2_MORPHOLOGY_NORMALIZATION_OPTION0
+#	bool "option0"
+#	help
+#	  Help text
+endif

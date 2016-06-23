@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="top.cpp" path="/home/inf2010/konstadel/Devel/GLPR-petalinux-zed/hardware/hls_ip/text_isolation_src/top.cpp"/>
+    <originFiles name="top.h" path="/home/inf2010/konstadel/Devel/GLPR-petalinux-zed/hardware/hls_ip/text_isolation_src/top.h"/>
+  </source>
+  <testbench>
+    <originFiles name="opencv_top.cpp" path="/home/inf2010/konstadel/Devel/GLPR-petalinux-zed/hardware/hls_ip/text_isolation_src/opencv_top.cpp"/>
+    <originFiles name="opencv_top.h" path="/home/inf2010/konstadel/Devel/GLPR-petalinux-zed/hardware/hls_ip/text_isolation_src/opencv_top.h"/>
+    <originFiles name="test.cpp" path="/home/inf2010/konstadel/Devel/GLPR-petalinux-zed/hardware/hls_ip/text_isolation_src/test.cpp"/>
+    <originFiles name="test_1080p.jpg" path="/home/inf2010/konstadel/Devel/GLPR-petalinux-zed/hardware/hls_ip/text_isolation_src/test_1080p.jpg"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
